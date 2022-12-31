@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debugger on Compose Docs</title>
+    <link>https://example.com/debugging/</link>
+    <description>Recent content in Debugger on Compose Docs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/debugging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About the Debugger</title>
+      <link>https://example.com/debugging/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/about/</guid>
+      <description>A debugger is a tool that allows you to pause the execution of your code, inspect the state of the program, and step through the code line by line to understand how the program is executing. This is especially useful for beginners because it allows them to understand what is happening in their code at a deeper level and can help them find and fix bugs more efficiently. For example, if you are working on a program and it is not producing the expected output, you can use a debugger to pause the execution of the program and inspect the variables and their values at different points in the code.</description>
+    </item>
+    
+  </channel>
+</rss>

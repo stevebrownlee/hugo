@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compose on Compose Docs</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Compose on Compose Docs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About the Debugger</title>
+      <link>https://example.com/debugging/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/about/</guid>
+      <description>A debugger is a tool that allows you to pause the execution of your code, inspect the state of the program, and step through the code line by line to understand how the program is executing. This is especially useful for beginners because it allows them to understand what is happening in their code at a deeper level and can help them find and fix bugs more efficiently. For example, if you are working on a program and it is not producing the expected output, you can use a debugger to pause the execution of the program and inspect the variables and their values at different points in the code.</description>
+    </item>
+    
+    <item>
+      <title>Install theme</title>
+      <link>https://example.com/docs/compose/install-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/compose/install-theme/</guid>
+      <description>Prerequisites First ensure that you have hugo installed.
+You need a recent extended version (we recommend version 0.61 or later) of Hugo to do local builds and previews of sites (like this one) that uses this theme.
+If you install from the release page, make sure to get the extended Hugo version, which supports sass; you may need to scroll down the list of releases to see it.
+For comprehensive Hugo documentation, see gohugo.</description>
+    </item>
+    
+    <item>
+      <title>Install theme</title>
+      <link>https://example.com/installations/install-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/installations/install-theme/</guid>
+      <description>Prerequisites First ensure that you have hugo installed.
+You need a recent extended version (we recommend version 0.61 or later) of Hugo to do local builds and previews of sites (like this one) that uses this theme.
+If you install from the release page, make sure to get the extended Hugo version, which supports sass; you may need to scroll down the list of releases to see it.
+For comprehensive Hugo documentation, see gohugo.</description>
+    </item>
+    
+    <item>
+      <title>Use forestry CMS</title>
+      <link>https://example.com/docs/compose/use-forestry-cms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/compose/use-forestry-cms/</guid>
+      <description>Do you prefer managing your site using a CMS? Or would you like to make it easier for someone (a non-techie, perhaps) in your team to make edits easily? If interested, follow along. Else, skip to the next section
+Let&#39;s sync your site with forestry CMS.
+Prerequisites !! Obviously you ought to have a github account. This is where your website source will live. Basically, forestry will read from github and write (commmit) to your github repo.</description>
+    </item>
+    
+    <item>
+      <title>Use forestry CMS</title>
+      <link>https://example.com/installations/use-forestry-cms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/installations/use-forestry-cms/</guid>
+      <description>Do you prefer managing your site using a CMS? Or would you like to make it easier for someone (a non-techie, perhaps) in your team to make edits easily? If interested, follow along. Else, skip to the next section
+Let&#39;s sync your site with forestry CMS.
+Prerequisites !! Obviously you ought to have a github account. This is where your website source will live. Basically, forestry will read from github and write (commmit) to your github repo.</description>
+    </item>
+    
+    <item>
+      <title>Content organization</title>
+      <link>https://example.com/docs/compose/organize-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/compose/organize-content/</guid>
+      <description>This theme is primarily meant for documentation.
+Documentation By default, the theme will look for all your documentation content within the docs directory.
+However, if you would like to have your docs content across multiple directories, please list those directories inside config/_default/params.toml under docSections like so:
+... docSections = [&amp;#34;docs&amp;#34;, &amp;#34;tutorials&amp;#34;] ... Unlike other regular pages, the documentation pages will have a left sidebar. This sidebar will list links to all the pages in the documentation pages.</description>
+    </item>
+    
+    <item>
+      <title>Content organization</title>
+      <link>https://example.com/installations/organize-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/installations/organize-content/</guid>
+      <description>This theme is primarily meant for documentation.
+Documentation By default, the theme will look for all your documentation content within the docs directory.
+However, if you would like to have your docs content across multiple directories, please list those directories inside config/_default/params.toml under docSections like so:
+... docSections = [&amp;#34;docs&amp;#34;, &amp;#34;tutorials&amp;#34;] ... Unlike other regular pages, the documentation pages will have a left sidebar. This sidebar will list links to all the pages in the documentation pages.</description>
+    </item>
+    
+    <item>
+      <title>Functions Refresh</title>
+      <link>https://example.com/debugging/projects/queen/functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/functions/</guid>
+      <description>Functions are the heart and soul of JavaScript developers. Everything that a modern application does is done in a function. An application can have hundreds, possibly thousands, of tasks that it must perform to solve a problem or provide a service to humans. Each one of those tasks is in a function.
+You can think of a function as a container for code that completes a specific task.
+Functions are the first major hurdle of learning software development.</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://example.com/docs/compose/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/compose/shortcodes/</guid>
+      <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.
+Why shortcodes? While markdown is sufficient to produce simple pages, it&#39;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
+This way, you can side step complex html and css boilerplate in your content files.
+Sometimes, the shortcode will wrap content, sometimes it won&#39;t. When content is wrapped, a closing shortcode tag is needed.</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://example.com/installations/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/installations/shortcodes/</guid>
+      <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.
+Why shortcodes? While markdown is sufficient to produce simple pages, it&#39;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
+This way, you can side step complex html and css boilerplate in your content files.
+Sometimes, the shortcode will wrap content, sometimes it won&#39;t. When content is wrapped, a closing shortcode tag is needed.</description>
+    </item>
+    
+    <item>
+      <title>Queen Functions</title>
+      <link>https://example.com/debugging/projects/queen/majesty_functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/majesty_functions/</guid>
+      <description>Learning Objectives and Competencies At the end of this chapter you should be able to...
+Describe the purpose of a function in software Identify a parameter in a function definition Describe the purpose of a parameter Identify where a function in invoked Identify an argument Describe what purpose an argument serves Describe what a function returns Setup In your terminal, run the following commands. These create a directory, and a file in that directory for the code you will write in this chapter.</description>
+    </item>
+    
+    <item>
+      <title>Search Function</title>
+      <link>https://example.com/docs/compose/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/compose/search/</guid>
+      <description>Firstly, ensure you have these lines inside your config.toml file
+1[outputs] 2 home = [&amp;#34;HTML&amp;#34;, &amp;#34;RSS&amp;#34;,&amp;#34;JSON&amp;#34;] Compose implements fuse.js to enable search functionality. At the time of this writing, search on these theme takes either of this forms:
+1. Passive search This occurs only when the user loads the search page i.e /search/. They can directly navigate to that url. Alternatively, the user can type you search query on the search field and click enter.</description>
+    </item>
+    
+    <item>
+      <title>Search Function</title>
+      <link>https://example.com/installations/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/installations/search/</guid>
+      <description>Firstly, ensure you have these lines inside your config.toml file
+1[outputs] 2 home = [&amp;#34;HTML&amp;#34;, &amp;#34;RSS&amp;#34;,&amp;#34;JSON&amp;#34;] Compose implements fuse.js to enable search functionality. At the time of this writing, search on these theme takes either of this forms:
+1. Passive search This occurs only when the user loads the search page i.e /search/. They can directly navigate to that url. Alternatively, the user can type you search query on the search field and click enter.</description>
+    </item>
+    
+    <item>
+      <title>Watch Your Code Run</title>
+      <link>https://example.com/debugging/projects/queen/debugger_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/debugger_intro/</guid>
+      <description>In this chapter, you are going to see how to run a tool called the debugger which allows you to watch, step by step, how JavaScript executes your code.
+Learning Objectives and Competencies At the end of this chapter you should be able to...
+Access the Run and Debug panel of Visual Studio Code Step over your code as it executes Evaluate the value of variables while stepping through your code Identify where the output is displayed while using the debugger Using the Debugger Tool Watch the following video to learn how to use Visual Studio Code to execute your code, evaluate values, and use the debugger toolbar.</description>
+    </item>
+    
+    <item>
+      <title>Bug Queen</title>
+      <link>https://example.com/debugging/projects/queen/bug_queen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/bug_queen/</guid>
+      <description>Your whole life, you&#39;ve been trained to make mistakes disappear as quickly as possible. Part of this program is to begin the process of re-training your brain.
+Your future teammates will only benefit if you understand why the error is happening, not just that you fixed it. Then you can explain to them why it happened so that future errors of the same kind can be avoided.
+Logical Errors Copy pasta the following code into your main.</description>
+    </item>
+    
+    <item>
+      <title>Mermaid</title>
+      <link>https://example.com/docs/compose/mermaid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/compose/mermaid/</guid>
+      <description>Mermaid is library that helps you generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown.
+With compose theme, you can use mermaid using a custom shortcode as follows:
+Sequence Diagrams Syntax
+1{{&amp;lt; mermaid &amp;gt;}} 2sequenceDiagram 3 participant Alice 4 participant Bob 5 Alice-&amp;gt;&amp;gt;John: Hello John, how are you? 6 loop Healthcheck 7 John-&amp;gt;&amp;gt;John: Fight against hypochondria 8 end 9 Note right of John: Rational thoughts&amp;lt;br/&amp;gt;prevail... 10 John--&amp;gt;&amp;gt;Alice: Great!</description>
+    </item>
+    
+    <item>
+      <title>Mermaid</title>
+      <link>https://example.com/installations/mermaid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/installations/mermaid/</guid>
+      <description>Mermaid is library that helps you generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown.
+With compose theme, you can use mermaid using a custom shortcode as follows:
+Sequence Diagrams Syntax
+1{{&amp;lt; mermaid &amp;gt;}} 2sequenceDiagram 3 participant Alice 4 participant Bob 5 Alice-&amp;gt;&amp;gt;John: Hello John, how are you? 6 loop Healthcheck 7 John-&amp;gt;&amp;gt;John: Fight against hypochondria 8 end 9 Note right of John: Rational thoughts&amp;lt;br/&amp;gt;prevail... 10 John--&amp;gt;&amp;gt;Alice: Great!</description>
+    </item>
+    
+    <item>
+      <title>Graphs, charts &amp; dynamic tables</title>
+      <link>https://example.com/docs/compose/graphs-charts-tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/compose/graphs-charts-tables/</guid>
+      <description>Using chart js library you can display data you have stored in a csv file as a pie chart, bar graph or doughnut chart.
+At this point if you want to display data from a json or yaml file, you would need to convert it into csv first. Else the template will error out.
+Once you have a csv file, you display the charts as follows:
+Show a pie, doughnut &amp;amp; bar chart at once Firstly define the data you want to display from the front matter:</description>
+    </item>
+    
+    <item>
+      <title>Graphs, charts &amp; dynamic tables</title>
+      <link>https://example.com/installations/graphs-charts-tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/installations/graphs-charts-tables/</guid>
+      <description>Using chart js library you can display data you have stored in a csv file as a pie chart, bar graph or doughnut chart.
+At this point if you want to display data from a json or yaml file, you would need to convert it into csv first. Else the template will error out.
+Once you have a csv file, you display the charts as follows:
+Show a pie, doughnut &amp;amp; bar chart at once Firstly define the data you want to display from the front matter:</description>
+    </item>
+    
+    <item>
+      <title>Queen Colony</title>
+      <link>https://example.com/debugging/projects/queen/colony/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/colony/</guid>
+      <description>In this chapter, you are going to define a new function that will perform the task of adding objects that represent each queen to an array. Thus, you will practice the syntax for arrays and objects that you were introduced to in the Foundations Course.
+Learning Objectives and Competencies At the end of this chapter you should be able to...
+Create a JavaScript object Describe the key names, and corresponding data type of each key&#39;s value Add a new value to an existing array Describe array iteration syntax with correct vocabulary Setup Add the following line of code to the very top of the main.</description>
+    </item>
+    
+    <item>
+      <title>Customize layouts &amp; components</title>
+      <link>https://example.com/docs/compose/customize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/compose/customize/</guid>
+      <description>Shortcodes modifiers These modifiers are classes you can use with shortcodes to customize the look and feel of your layouts and components.
+Grid modifier space grid-2 2 columns grid-3 3 columns grid-4 4 columns Spacing modifier space mt-1 1.5rem top margin mt-2 3rem top margin mt-3 4.5rem top margin mt-4 6rem top margin use pt-1 ~ pt-4 for top padding
+modifier space mb-1 1.5rem bottom margin mb-2 3rem bottom margin mb-3 4.</description>
+    </item>
+    
+    <item>
+      <title>Customize layouts &amp; components</title>
+      <link>https://example.com/installations/customize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/installations/customize/</guid>
+      <description>Shortcodes modifiers These modifiers are classes you can use with shortcodes to customize the look and feel of your layouts and components.
+Grid modifier space grid-2 2 columns grid-3 3 columns grid-4 4 columns Spacing modifier space mt-1 1.5rem top margin mt-2 3rem top margin mt-3 4.5rem top margin mt-4 6rem top margin use pt-1 ~ pt-4 for top padding
+modifier space mb-1 1.5rem bottom margin mb-2 3rem bottom margin mb-3 4.</description>
+    </item>
+    
+    <item>
+      <title>Hail All Queens</title>
+      <link>https://example.com/debugging/projects/queen/iteration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/iteration/</guid>
+      <description>In this chapter, you are going to iterate the queens array to hail each one.
+Definition of iteration:
+To iterate an array means to write code that starts at the first item in the array, then moves to each subsequent one until there are no more items in the array.
+Learning Objectives and Competencies At the end of this chapter you should be able to...
+Write a for..of loop to iterate an array Describe the syntax of a for.</description>
+    </item>
+    
+    <item>
+      <title>Paying Tribute</title>
+      <link>https://example.com/debugging/projects/queen/paying_tribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/paying_tribute/</guid>
+      <description>Time to pay tribute to the queen! As a loyal citizen, you have the privilege of paying tribute to your queen each year. How lucky are you!
+In this chapter, you need to define a new function that creates an object that represents your tribute to your queen. That new object will be added to a tribute chest (i.e. an array of tribute objects).
+Learning Objectives and Competencies At the end of this chapter you should be able to.</description>
+    </item>
+    
+    <item>
+      <title>Displaying Tribute</title>
+      <link>https://example.com/debugging/projects/queen/displaying_tribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/displaying_tribute/</guid>
+      <description>In this chapter, you are going to practice iterating the items in arrays again. This time, however, you will be writing a for..of loop inside another for..of loop.
+This is called a nested loop.
+Learning Objectives and Competencies At the end of this chapter you should be able to...
+Iterate the items in an array with a for..of loop. Correctly describe the syntax and operation of a for..of loop. Identify different block scopes created by for.</description>
+    </item>
+    
+    <item>
+      <title>🎓 Self-Assessment</title>
+      <link>https://example.com/debugging/projects/queen/assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

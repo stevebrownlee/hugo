@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>👸🏽 Her Majesty, The Queen on Compose Docs</title>
+    <link>https://example.com/debugging/projects/queen/</link>
+    <description>Recent content in 👸🏽 Her Majesty, The Queen on Compose Docs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/debugging/projects/queen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functions Refresh</title>
+      <link>https://example.com/debugging/projects/queen/functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/functions/</guid>
+      <description>Functions are the heart and soul of JavaScript developers. Everything that a modern application does is done in a function. An application can have hundreds, possibly thousands, of tasks that it must perform to solve a problem or provide a service to humans. Each one of those tasks is in a function.
+You can think of a function as a container for code that completes a specific task.
+Functions are the first major hurdle of learning software development.</description>
+    </item>
+    
+    <item>
+      <title>Queen Functions</title>
+      <link>https://example.com/debugging/projects/queen/majesty_functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/majesty_functions/</guid>
+      <description>Learning Objectives and Competencies At the end of this chapter you should be able to...
+Describe the purpose of a function in software Identify a parameter in a function definition Describe the purpose of a parameter Identify where a function in invoked Identify an argument Describe what purpose an argument serves Describe what a function returns Setup In your terminal, run the following commands. These create a directory, and a file in that directory for the code you will write in this chapter.</description>
+    </item>
+    
+    <item>
+      <title>Watch Your Code Run</title>
+      <link>https://example.com/debugging/projects/queen/debugger_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/debugger_intro/</guid>
+      <description>In this chapter, you are going to see how to run a tool called the debugger which allows you to watch, step by step, how JavaScript executes your code.
+Learning Objectives and Competencies At the end of this chapter you should be able to...
+Access the Run and Debug panel of Visual Studio Code Step over your code as it executes Evaluate the value of variables while stepping through your code Identify where the output is displayed while using the debugger Using the Debugger Tool Watch the following video to learn how to use Visual Studio Code to execute your code, evaluate values, and use the debugger toolbar.</description>
+    </item>
+    
+    <item>
+      <title>Bug Queen</title>
+      <link>https://example.com/debugging/projects/queen/bug_queen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/bug_queen/</guid>
+      <description>Your whole life, you&#39;ve been trained to make mistakes disappear as quickly as possible. Part of this program is to begin the process of re-training your brain.
+Your future teammates will only benefit if you understand why the error is happening, not just that you fixed it. Then you can explain to them why it happened so that future errors of the same kind can be avoided.
+Logical Errors Copy pasta the following code into your main.</description>
+    </item>
+    
+    <item>
+      <title>Queen Colony</title>
+      <link>https://example.com/debugging/projects/queen/colony/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/colony/</guid>
+      <description>In this chapter, you are going to define a new function that will perform the task of adding objects that represent each queen to an array. Thus, you will practice the syntax for arrays and objects that you were introduced to in the Foundations Course.
+Learning Objectives and Competencies At the end of this chapter you should be able to...
+Create a JavaScript object Describe the key names, and corresponding data type of each key&#39;s value Add a new value to an existing array Describe array iteration syntax with correct vocabulary Setup Add the following line of code to the very top of the main.</description>
+    </item>
+    
+    <item>
+      <title>Hail All Queens</title>
+      <link>https://example.com/debugging/projects/queen/iteration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/iteration/</guid>
+      <description>In this chapter, you are going to iterate the queens array to hail each one.
+Definition of iteration:
+To iterate an array means to write code that starts at the first item in the array, then moves to each subsequent one until there are no more items in the array.
+Learning Objectives and Competencies At the end of this chapter you should be able to...
+Write a for..of loop to iterate an array Describe the syntax of a for.</description>
+    </item>
+    
+    <item>
+      <title>Paying Tribute</title>
+      <link>https://example.com/debugging/projects/queen/paying_tribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/paying_tribute/</guid>
+      <description>Time to pay tribute to the queen! As a loyal citizen, you have the privilege of paying tribute to your queen each year. How lucky are you!
+In this chapter, you need to define a new function that creates an object that represents your tribute to your queen. That new object will be added to a tribute chest (i.e. an array of tribute objects).
+Learning Objectives and Competencies At the end of this chapter you should be able to.</description>
+    </item>
+    
+    <item>
+      <title>Displaying Tribute</title>
+      <link>https://example.com/debugging/projects/queen/displaying_tribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/displaying_tribute/</guid>
+      <description>In this chapter, you are going to practice iterating the items in arrays again. This time, however, you will be writing a for..of loop inside another for..of loop.
+This is called a nested loop.
+Learning Objectives and Competencies At the end of this chapter you should be able to...
+Iterate the items in an array with a for..of loop. Correctly describe the syntax and operation of a for..of loop. Identify different block scopes created by for.</description>
+    </item>
+    
+    <item>
+      <title>🎓 Self-Assessment</title>
+      <link>https://example.com/debugging/projects/queen/assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/debugging/projects/queen/assessment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
