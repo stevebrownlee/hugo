@@ -14,5 +14,4 @@ Please note that the features listed under each theme are independent of each ot
 
 {{< button "./compose/" "Compose Theme Docs" "mb-1" >}}
 
-{{< button "./clarity/" "Clarity Theme Docs" >}}
 

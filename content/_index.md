@@ -11,23 +11,38 @@ title = "Projects"
 {{< block "grid-2" >}}
 {{< column >}}
 
-# Compose your Docs with **Ease**.
+# Welcome to **Nashville Software School**.
 
-Compose is a lean `Hugo` domentation theme, inspired by [forestry.io](https://forestry.io/docs/welcome/).
+Your team of coaches are going to be your partners and guides as you learn how to become a software developer. You will not be taught. You are here to learn, and we'll help you on that path.
+{{ now.Year }}
+## Your Coaches
 
-{{< tip "warning" >}}
-Feel free to open a [PR](https://github.com/onweru/compose/pulls), raise an [issue](https://github.com/onweru/compose/issues/new/choose "Open a Github Issue")(s) or request new feature(s). {{< /tip >}}
+<div style="margin: 1rem 0 2rem 0; display: flex; justify-content: space-evenly;">
+    <div class="coach--badge">Steve Brownlee</div>
+    <div class="coach--badge">Dakota Lambert</div>
+    <div class="coach--badge">Sydney Dickson</div>
+</div>
 
-{{< tip >}}
-You can generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown using [mermaid](./docs/compose/mermaid/).
 
-Or, [generate graphs, charts](docs/compose/graphs-charts-tables/#show-a-pie-doughnut--bar-chart-at-once) and tables from a csv, ~~or a json~~ file.
-{{< /tip >}}
+## Core Skills
 
-{{< button "docs/compose/" "Read the Docs" >}}{{< button "https://github.com/onweru/compose" "Download Theme" >}}
+This is the client side portion of the experience where you will develop the following skills.
+
+1. Efficient technical learning
+2. Analytical thinking
+3. Algorithmic thinking
+4. Communication
+
+## Language and Tools
+
+You will learn to express your algorithms with plain JavaScript at the beginning. Then you will learn how to use the popular library named _React_.
+
+{{< button "debugging/" "Start Your Journey" >}}
+
+
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/scribble.jpg)
+![diy](/images/wizard.png)
 {{< /column >}}
 {{< /block >}}

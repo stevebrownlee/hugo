@@ -1,25 +1,36 @@
 #  menu items
-[[main]]
-  name = "Blog"
-  weight = 5
-  url = "blog/"
 
 [[main]]
-  name = "Docs"
+  name = "Debugging"
+  weight = 1
+  url = "debugging/"
+
+[[main]]
+  name = "Modules"
   weight = 2
-  url = "docs/"
+  url = "modules/"
 
 [[main]]
-  name = "Tutorials"
-  weight = 2
-  url = "tutorials/"
-
-[[main]]
-  name = "Example"
+  name = "Git"
   weight = 3
-  url = "https://docs.neuralvibes.com"
+  url = "git/"
 
-# [[main]]
-#   name = "Blog"
-#   weight = 4
-#   url = "blog/"
+[[main]]
+  name = "Interactivity"
+  weight = 4
+  url = "events/"
+
+[[main]]
+  name = "API"
+  weight = 5
+  url = "events/"
+
+[[main]]
+  name = "React"
+  weight = 6
+  url = "events/"
+
+[[main]]
+  name = "Capstones"
+  weight = 7
+  url = "capstones/"
