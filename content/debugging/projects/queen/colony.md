@@ -18,9 +18,9 @@ At the end of this chapter you should be able to...
 
 Add the following line of code to the very top of the `main.js`, even before the current function definition.
 
-```js
+{{< highlight js "linenos=false" >}}
 const queens = []
-```
+{{< / highlight >}}
 
 This array, which starts off empty, will contain all of the queens. Each queen will be represented as an object. So far, you have only used strings for the queen's name, but in this chapter, the queen's name will be a property on an object.
 
@@ -35,12 +35,12 @@ Each queen will have two properties.
 
 Here is what the first queen object will look like when you are done.
 
-```js
+{{< highlight js "linenos=false" >}}
 {
     id: 1,
     name: "Athena Perez"
 }
-```
+{{< / highlight >}}
 
 The function will need to be given both the unique numerical identifier you want assigned to the queen, and the queen's name. This means that the function must have two parameters defined. The first parameter will capture the number value, and the second parameter will capture the string value.
 
@@ -48,7 +48,7 @@ Here is some starter code. Paste this into your `main.js` module and immediately
 
 Read the stack trace and determine exactly which line of code in your module has the error.
 
-```js
+{{< highlight js "linenos=false" >}}
 const queens = []
 
 const createQueen = () => {
@@ -61,7 +61,7 @@ const createQueen = () => {
 }
 
 createQueen(1, "Trinity Terry")
-```
+{{< / highlight >}}
 
 Now try to implement the correct syntax in the function to make it work correctly. There are hints below if you get stuck.
 
@@ -70,7 +70,7 @@ Now try to implement the correct syntax in the function to make it work correctl
 
 First define two parameters. You may pick your own variable names if you wish.
 
-```js
+{{< highlight js "linenos=false" >}}
 const createQueen = (queenId, queenName) => {
     const queenObject = {
         id: ,
@@ -79,7 +79,7 @@ const createQueen = (queenId, queenName) => {
 
     queens.push()
 }
-```
+{{< / highlight >}}
 </details>
 
 <details>
@@ -87,7 +87,7 @@ const createQueen = (queenId, queenName) => {
 
 Assign the value of the parameters to the appropriate keys on the object.
 
-```js
+{{< highlight js "linenos=false" >}}
 const createQueen = (queenId, queenName) => {
     const queenObject = {
         id: queenId,
@@ -96,7 +96,8 @@ const createQueen = (queenId, queenName) => {
 
     queens.push()
 }
-```
+{{< / highlight >}}
+
 </details>
 
 <details>
@@ -104,7 +105,7 @@ const createQueen = (queenId, queenName) => {
 
 Push the value of the `queenObject` variable, which is an object into the array with the `push()` array method.
 
-```js
+{{< highlight js "linenos=false" >}}
 const createQueen = (queenId, queenName) => {
     const queenObject = {
         id: queenId,
@@ -113,7 +114,8 @@ const createQueen = (queenId, queenName) => {
 
     queens.push(queenObject)
 }
-```
+{{< / highlight >}}
+
 </details>
 
 ## Watch the Queens Being Created

@@ -1,11 +1,11 @@
 ---
-title: "Undefined Inventory"
+title: "Inventory"
 weight: 16
 ---
 
 ## Getting Started
 
-1. Open the `undefined.js` file.
+1. Open the **undefined.js** file in VS Code.
 1. Run the code with your debugger.
 
 You will immediately see a stack trace in the **Debug Console** at the bottom. Your job is understand the error message, read the stack trace to determine exactly where the error is, and then fix the error.

@@ -42,10 +42,10 @@ Time to make a common, beginner syntactical error.
 
 Copy pasta the following code at the bottom of the `main.js` module, and then run the debugger.
 
-```js
+{{< highlight js "linenos=false" >}}
 const monica = hailTheQuen("Monica Dinglehopper")
 console.log(monica)
-```
+{{< / highlight >}}
 
 Now watch the following video for an overview of how to read and understand a JavaScript syntax error.
 

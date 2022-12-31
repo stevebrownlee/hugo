@@ -43,22 +43,22 @@ The final step is to invoke the hailing function and pass the queen's name to it
 
 You need to access the correct property on the object inside the parenthesis when the function is invoked. There is a hint below if you can't figure it out with your peers.
 
-```js
+{{< highlight js "linenos=false" >}}
 for (const queen of queens) {
 
     const hailMessage = hailTheQueen()  // What should be passed as an argument?
     console.log(hailMessage)
 
 }
-```
+{{< / highlight >}}
 
 <details>
     <summary>The Answer</summary>
 
 
-```js
+{{< highlight js "linenos=false" >}}
 const hailMessage = hailTheQueen(queen.name)
-```
+{{< / highlight >}}
 </details>
 
 ## Understand the Flow with the Debugger

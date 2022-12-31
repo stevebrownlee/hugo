@@ -20,13 +20,13 @@ At the end of this chapter you should be able to...
 
 In your terminal, run the following commands. These create a directory, and a file in that directory for the code you will write in this chapter.
 
-```sh
+{{< highlight shell "linenos=false" >}}
 cd ~/workspace
 mkdir majesty
 cd majesty
 touch main.js
 code .
-```
+{{< / highlight >}}
 
 ## First Function
 
@@ -34,7 +34,7 @@ Here is an example of a function with a parameter. A function can be invoked as 
 
 Open the `main.js` file in Visual Studio Code and paste the following function into it.
 
-```js
+{{< highlight js "linenos=false" >}}
 /*
     Define a function with a single parameter. When the function
     is invoked, an argument is required.
@@ -42,7 +42,7 @@ Open the `main.js` file in Visual Studio Code and paste the following function i
 const hailTheQueen = (nameString) => {
     return `Hail Her Majesty, ${nameString}.`  // This function returns a string
 }
-```
+{{< / highlight >}}
 
 This is a task that you can execute later. It doesn't execute when you define it.
 
@@ -52,42 +52,42 @@ Now that you have a function defined, you can invoke it and pass a string to it 
 
 Copy pasta the follow code into the `main.js` file below the function definition.
 
-```js
+{{< highlight js "linenos=false" >}}
 const athena = hailTheQueen("Athena Perez") // Argument value is "Athena Perez"
 console.log(athena)
-```
+{{< / highlight >}}
 
 Next, go to your terminal and run the following command.
 
-```sh
+{{< highlight shell "linenos=false" >}}
 node main.js
-```
+{{< / highlight >}}
 
 And you should see the following string in the output.
 
-```sh
+{{< highlight shell "linenos=false" >}}
 "Hail Her Majesty, Athena Perez."
-```
+{{< / highlight >}}
 
 ## Another Queen
 
 Copy pasta the follow code into the `main.js` file below the function definition. In this invocation, the argument is the string of "Charisse Ford".
 
-```js
+{{< highlight js "linenos=false" >}}
 const charisse = hailTheQueen("Charisse Ford") // Argument value is "Charisse Ford"
 console.log(charisse)
 
 const jenna = hailTheQueen("Jenna Solis") // Argument value is "Jenna Solis"
 console.log(jenna)
-```
+{{< / highlight >}}
 
 Run the code again in this terminal and you will see the output of the function being invoked three times.
 
-```sh
+{{< highlight shell "linenos=false" >}}
 "Hail Her Majesty, Athena Perez."
 "Hail Her Majesty, Charisse Ford."
 "Hail Her Majesty, Jenna Solis."
-```
+{{< / highlight >}}
 
 
 ## The Queens in Your Life
@@ -96,6 +96,6 @@ Now invoke the function a couple more times, passing in arguments representing t
 
 Make sure you run the following command in your terminal to execute your code.
 
-```sh
+{{< highlight shell "linenos=false" >}}
 node main.js
-```
+{{< / highlight >}}
