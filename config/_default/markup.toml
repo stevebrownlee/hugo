@@ -8,7 +8,7 @@
   guessSyntax = false
   hl_Lines = ""
   lineNoStart = 1
-  lineNos = true
+  lineNos = false
   lineNumbersInTable = false
   noClasses = false
   style = "monokai"

@@ -1,19 +1,12 @@
 ---
 title: "Undefined Inventory"
-weight: 15
+weight: 16
 ---
 
-## Setup
+## Getting Started
 
-
-
-1. Run the following command in your terminal. It will automatically create a directory for you, create a file in that directory named `undefined.js`, and take you to that directory.
-   ```sh
-   /bin/bash -c "$(curl -fsSL {{< siteurl >}}debugging/scripts/undefined.sh)"
-   ```
-2. Open the directory in VS Code with the `code .` command.
-3. Open the `undefined.js` file.
-4. Run the code with your debugger.
+1. Open the `undefined.js` file.
+1. Run the code with your debugger.
 
 You will immediately see a stack trace in the **Debug Console** at the bottom. Your job is understand the error message, read the stack trace to determine exactly where the error is, and then fix the error.
 

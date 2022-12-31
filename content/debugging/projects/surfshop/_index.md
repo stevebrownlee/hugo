@@ -10,7 +10,7 @@ In this project, you will be given code that another developer has written. Each
 
 This is a professional development project. Your primary responsibility as a new software developer on any team will be to familiarize yourself with the system by investigating, understanding, communicating, and fixing existing bugs.
 
-{{< button "./undefined" "Start the Project" "mb-1" >}}
+{{< button "./setup" "Start the Project" "mb-1" >}}
 
 {{< /column >}}
 
