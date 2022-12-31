@@ -1,0 +1,7 @@
+title = "NSS Client Side Course"
+enableRobotsTXT = true
+theme = "compose"
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "RSS","JSON"]
