@@ -69,4 +69,4 @@ This is a top priority skill that you must have as a developer, so skipping this
 
 Watch the following video for an overview of using the debugger for this version of your code.
 
-<a href="https://watch.screencastify.com/v/1sIKYzOFt8qEfrlIic6T" target="_blank" rel="noopener"><img src="/images/video-play-icon.gif" class="videoButton" /></a>
+<a href="https://watch.screencastify.com/v/1sIKYzOFt8qEfrlIic6T" target="_blank" rel="noopener"><img src="../../../../images/video-play-icon.gif" class="videoButton" /></a>

@@ -49,4 +49,4 @@ console.log(monica)
 
 Now watch the following video for an overview of how to read and understand a JavaScript syntax error.
 
-<a href="https://watch.screencastify.com/v/cN8Vw8dWNvwb4L2avTq8" target="_blank" rel="noopener"><img src="/images/video-play-icon.gif" class="videoButton" /></a>
+<a href="https://watch.screencastify.com/v/cN8Vw8dWNvwb4L2avTq8" target="_blank" rel="noopener"><img src="../../../../images/video-play-icon.gif" class="videoButton" /></a>

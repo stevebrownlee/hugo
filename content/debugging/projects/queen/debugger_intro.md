@@ -18,4 +18,4 @@ At the end of this chapter you should be able to...
 
 Watch the following video to learn how to use Visual Studio Code to execute your code, evaluate values, and use the debugger toolbar.
 
-<a href="https://watch.screencastify.com/v/QVi2XBu7XsOm0v03ILVl" target="_blank" rel="noopener"><img src="/images/video-play-icon.gif" class="videoButton" /></a>
+<a href="https://watch.screencastify.com/v/QVi2XBu7XsOm0v03ILVl" target="_blank" rel="noopener"><img src="../../../../images/video-play-icon.gif" class="videoButton" /></a>

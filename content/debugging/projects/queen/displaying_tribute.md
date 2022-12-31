@@ -32,11 +32,11 @@ graph TB
 
 This first video talks about nested loops, and why that logic is needed for this chapter. Once you are done watching it, write the same code in your `main.js` module.
 
-<a href="https://watch.screencastify.com/v/kGLzdJaGEaQufUSqThU9" target="_blank" rel="noopener"><img src="/images/video-play-icon.gif" class="videoButton" /></a>
+<a href="https://watch.screencastify.com/v/kGLzdJaGEaQufUSqThU9" target="_blank" rel="noopener"><img src="../../../../images/video-play-icon.gif" class="videoButton" /></a>
 
 The next video walks through how to use the power of the debugger to help you determine what logic you need to write. Then it explains how to use an `if` statement to check if two values are the same, and if so, run some conditional logic.
 
 
 Once you are done watching it, write the same code in your `main.js` module.
 
-<a href="https://watch.screencastify.com/v/hpBX2f5IJZab30CpP8cy" target="_blank" rel="noopener"><img src="/images/video-play-icon.gif" class="videoButton" /></a>
+<a href="https://watch.screencastify.com/v/hpBX2f5IJZab30CpP8cy" target="_blank" rel="noopener"><img src="../../../../images/video-play-icon.gif" class="videoButton" /></a>

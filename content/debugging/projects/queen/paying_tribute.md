@@ -62,7 +62,7 @@ Time to practice using the debugger again. Put a breakpoint on the first line of
 
 For a review, you can watch a video that steps through the code and examines that values of variables as they change.
 
-<a href="https://watch.screencastify.com/v/MUKQNQMgqHOH3OFYnQOB" target="_blank" rel="noopener"><img src="/images/video-play-icon.gif" class="videoButton" /></a>
+<a href="https://watch.screencastify.com/v/MUKQNQMgqHOH3OFYnQOB" target="_blank" rel="noopener"><img src="../../../../images/video-play-icon.gif" class="videoButton" /></a>
 
 ## Hints
 
