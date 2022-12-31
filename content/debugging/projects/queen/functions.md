@@ -13,9 +13,9 @@ It is not sequential, which is how most human consume and understand text and in
 
 Beginners often ask questions like the following.
 
-> "How many possible functions are there? Can I just memorize them all?
+> "How many possible functions are there? Can I just memorize them all?"
 >
-> "When do I need to write a function?
+> "When do I need to write a function?"
 
 The answer to the first question is that it is the wrong question - because there are an infinite variety of functions. The reason for this is the answer to the second question. You write functions when you need some code to run to help solve your problem.
 

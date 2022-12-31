@@ -1,5 +1,5 @@
 ---
-title: "Debugger"
+title: "Debugging"
 weight: 1
 ---
 

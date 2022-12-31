@@ -12,14 +12,6 @@ In this project, you learn how to use the debugger tools in Visual Studio Code a
 * Conditional logic with `if` statements
 * Iterating arrays for `for..of` loops
 
-{{< mermaid >}}
-graph TB
-  A[Iterate Queens] -->|Each queen...| B[Iterate Tributes]
-  B --> C{Is tribute for me?}
-  C -->|Yes| D[Display tribute message]
-  C -->|No| E[Look at next item]
-{{< /mermaid >}}
-
 {{< button "./functions" "Start the Project" "mb-1" >}}
 
 {{< /column >}}

@@ -43,6 +43,6 @@ You will learn to express your algorithms with plain JavaScript at the beginning
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/wizard.png)
+![diy](./images/wizard.png)
 {{< /column >}}
 {{< /block >}}
