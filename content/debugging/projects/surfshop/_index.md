@@ -1,6 +1,6 @@
 ---
 title: "Sequina's Surf Shop"
-weight: 4
+weight: 40
 ---
 
 | #   |  🌊 🏄🏾‍♂️ <br/> Sequina's Surf Shop |
